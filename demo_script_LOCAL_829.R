@@ -8,8 +8,9 @@ y <- rnorm(500)
 
 ## Important feature -----------
 
-## an alteranative way forward  -----------
+## new feature -----------
 
 
+## normal development -----------
 
 
