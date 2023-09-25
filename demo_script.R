@@ -7,3 +7,7 @@ y <- rnorm(100)
 
 ## Important feature -----------
 
+## an alteranative way forward  -----------
+
+
+
